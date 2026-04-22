@@ -1,0 +1,495 @@
+{
+  "metadata": {
+    "title": "High-Converting Websites Designed To Perform.",
+    "description": "Premium, expert-built websites delivered in ~10 days. No templates, no AI shortcuts. Custom design, high performance, ongoing support. Starting at $89/month.",
+    "ogAlt": "High-Converting Websites Designed To Perform."
+  },
+  "navbar": {
+    "services": "Services",
+    "process": "Process",
+    "portfolio": "Portfolio",
+    "pricing": "Pricing",
+    "viewPricing": "View Pricing",
+    "logoAlt": "Big Browser Logo",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "hero": {
+    "satisfactionAlt": "Customer Satisfaction",
+    "highConverting": "High-Converting",
+    "websites": "WEBSITES",
+    "designedToPerform": "Designed TO PERFORM.",
+    "desc1": "A premium website with a simple annual commitment.",
+    "desc2": "No templates. No AI shortcuts. Just expert-built quality.",
+    "desc3": "Delivered fast. Built to perform.",
+    "startNow": "Start now",
+    "bookACall": "Book a call",
+    "excellent": "Excellent",
+    "starsAlt": "5 stars",
+    "trustpilot": "Trustpilot",
+    "cloudsAlt": "Clouds Background"
+  },
+  "swiperBox": {
+    "cesAlt": "CES logo",
+    "combinatorAlt": "Combinator Logo",
+    "forbesAlt": "Forbes Logo",
+    "kickstarterAlt": "kick Starter Logo",
+    "productHuntAlt": "Product Hunt Logo",
+    "techStarsAlt": "Tech Stars Logo",
+    "nytAlt": "The New York Times Logo",
+    "webSummitAlt": "Web Summit Logo"
+  },
+  "whyBigBrowser": {
+    "why": "WHY",
+    "bigbrowser": "BIGBROWSER",
+    "typewriter": "Get a premium website without the upfront cost.",
+    "card1Title": "Reliable Web Experts.",
+    "card1TitleHighlight": "Real Results.",
+    "card1Desc": "Collaborate with a dedicated team building high-performance landing pages that convert traffic into real growth.",
+    "card2Title": "LIGHTNING",
+    "card2TitleHighlight": "Fast",
+    "card2Desc": "Don't waste months on a basic site. Share your content and your custom website goes live in about 10 days.",
+    "card3Title1": "Clear delivery",
+    "card3Title2": "expectations",
+    "card3Desc": "From strategy to deployment, your website is delivered through a structured process with clear milestones and dependable turnaround times.",
+    "card4Title1": "Higher",
+    "card4TitleHighlight1": "Quality.",
+    "card4Title2": "Smarter",
+    "card4TitleHighlight2": "Costs.",
+    "card4Desc": "Premium execution without the traditional agency overhead, delivering better performance with a more efficient investment model.",
+    "box1Alt": "Why Big Browser Box 1 Image",
+    "box2Alt": "Why Big Browser Box 2 Image",
+    "box3Alt": "Why Big Browser Box 3 Image",
+    "whoIsItFor": "Who is it for?",
+    "foodHospitality": "Food & Hospitality",
+    "realEstate": "Real Estate",
+    "healthWellness": "Health & Wellness",
+    "coachingConsulting": "Coaching & Consulting",
+    "techStartups": "Tech & Startups",
+    "tradesConstruction": "Trades & Construction"
+  },
+  "steps": {
+    "heading": "A Clear Step by Step",
+    "process": "PROCESS",
+    "typewriter": "A Clear, Step-by-Step Process. No Surprises.",
+    "mobileHeading": "From Idea to Launch",
+    "step": "STEP",
+    "step01": "01",
+    "step01Title": "Strategy & Brand Foundation",
+    "step01Desc1": "We begin with a focused kickoff call to understand your business, audience, and objectives.",
+    "step01Desc2": "We define your artistic direction, brand identity, references, and technical requirements.",
+    "step01Desc3": "You leave this phase with clarity, alignment, and a structured roadmap.",
+    "step02": "02",
+    "step02Title": "Creative Direction & Design Proposal",
+    "step02Desc1": "We transform strategy into a powerful visual concept.",
+    "step02Desc2": "You receive a first design proposal including layout structure, visual direction, and user flow.",
+    "step02Desc3": "We refine together until the direction is validated and ready for production.",
+    "step03": "03",
+    "step03Title": "Development & Launch",
+    "step03Desc1": "Once approved, we build your website with performance, responsiveness, and scalability in mind.",
+    "step03Desc2": "Every detail is tested before deployment.",
+    "step03Desc3": "Your site launches clean, optimized, and ready to convert.",
+    "step04": "04",
+    "step04Title": "Ongoing Support & Evolution",
+    "step04Desc1": "Launch is just the beginning.",
+    "step04Desc2": "During your subscription, we continuously improve your website, handle updates, implement design changes, and even create graphic assets for your social media when needed. Your website evolves with your business."
+  },
+  "video": {
+    "muteVideo": "Mute video",
+    "unmuteVideo": "Unmute video"
+  },
+  "browseLatest": {
+    "browseLatest": "Browse Latest",
+    "works": "WORKS",
+    "whoIsItFor": "Who is it for?",
+    "foodHospitality": "Food & Hospitality",
+    "realEstate": "Real Estate",
+    "healthWellness": "Health & Wellness",
+    "coachingConsulting": "Coaching & Consulting",
+    "techStartups": "Tech & Startups",
+    "tradesConstruction": "Trades & Construction",
+    "startNow": "Start Now",
+    "projectAlt": "Project {index}"
+  },
+  "pricing": {
+    "noHiddenFees": "NO HIDDEN FEES",
+    "pricingAnd": "Pricing &",
+    "offer": "Offer",
+    "premiumWebsite": "A premium",
+    "websiteForJust": "website for just",
+    "perMonth": "/month",
+    "commitment": "(12-month commitment)",
+    "description": "Everything you need to launch and scale your business. Expert design, lightning-fast performance, dedicated support. Delivered fast.",
+    "bookACall": "Book a call",
+    "startNow": "Start now",
+    "customBuilt": "100% custom-built.",
+    "noShortcuts": "No shortcuts.",
+    "craftedWithIntention": "Crafted with intention, not assembled.",
+    "websitePackages": "Website Packages",
+    "singlePage": "Single-Page Website",
+    "multiPage": "Multi-Page Website",
+    "enhancementsAddons": "Enhancements & Add-Ons",
+    "seoLabel": "SEO Performance Suite",
+    "seoTooltip": "Includes everything from Google Visibility Accelerator, plus ongoing SEO content creation and a dedicated glossary page to help you rank for more keywords and strengthen your visibility over time.",
+    "brandLabel": "Brand Identity Starter Kit",
+    "brandTooltip": "Ideal if you're starting without a visual identity: we develop a cohesive brand guide covering your logo, colour system, typography, and overall visual direction so your website and future materials stay aligned and consistent.",
+    "contentLabel": "Website Content Writing",
+    "contentTooltip": "We craft all the copy for your pages — hero, sections, CTAs, FAQ, and more — and keep your ongoing content, like blog posts and resources, consistent and on-brand.",
+    "crmLabel": "CRM Integration & Automation",
+    "crmTooltip": "We integrate automations and a lightweight booking/CRM system that handles enquiries, appointments, and follow-ups automatically, giving you a smoother, more efficient workflow.",
+    "paymentPlanAlt": "Payment Plan {index}"
+  },
+  "testimonials": {
+    "cloudsAlt": "Clouds Background",
+    "woaa": "WOAA!!",
+    "theyLoveTheir": "They love their",
+    "theyLoveTheirMobile": "They love their BigBrowser",
+    "bigbrowser": "BigBrowser",
+    "website": "website",
+    "niceJob": "NICE JOB !",
+    "feedbacks": {
+      "0": {
+        "name": "Ben Sebagh",
+        "role": "CEO @BIOx",
+        "message": "It's really a pleasure to work with the BigBrowser team. We have already collaborated on more than 15 projects, and each time, it is a real pleasure. They are hyper-responsive, agile, highly organized and methodical.",
+        "metric": "+34% organic traffic"
+      },
+      "1": {
+        "name": "Aimen Bedawi",
+        "role": "CEO @Tatamihq",
+        "message": "Professional, responsive, and delivered everything on time. Highly recommended. Wishing them continued success!",
+        "metric": "+22% contact requests"
+      },
+      "2": {
+        "name": "Allan Benguigui",
+        "role": "CEO @Sobry",
+        "message": "Thank you to all the team for their professionalism and I did love working with them and won't hesitate to do it again !",
+        "metric": "+29% online subscriptions"
+      },
+      "3": {
+        "name": "William Fernandes",
+        "role": "Co-founder @Wizus",
+        "message": "The collaboration went extremely well from start to finish. Bigbrowser were great to work with, very responsive, and always available to adapt to changes along the way. They actively supported us throughout the website creation process, provided clear feedback, and shared solid advice when needed. Communication was smooth, decisions were made quickly, and the overall working relationship was efficient and constructive.",
+        "metric": "+28% inbound leads"
+      },
+      "4": {
+        "name": "Rajdeep Malhi",
+        "role": "CEO @Kingsguard",
+        "message": "The Bigbroswer team is very responsive and understood our requirements and assignment perfectly. They were adaptive to our needs. Change requests were handled within the promised time frame. I highly recommend Bigbroswer for your website needs.",
+        "metric": "+19% returning visitors"
+      },
+      "5": {
+        "name": "Julien Couderc",
+        "role": "Co-founder @Snowbeez",
+        "message": "We have been working with the Bigbrowser agency for a year for the SowBeez app and site, and we are thrilled with their work. Their expertise and creativity made it possible to successfully bring our project to life.",
+        "metric": "+47% active users"
+      },
+      "6": {
+        "name": "Eddy Jellal",
+        "role": "CEO @PdfWizard",
+        "message": "I had the opportunity to collaborate with BigBrowser for an ambitious digital project, and the result exceeded all my expectations. The team is creative, responsive and highly professional at the same time.",
+        "metric": "+38% free-to-paid conversions"
+      }
+    }
+  },
+  "team": {
+    "passionate": "Passionate",
+    "bigbrowser": "BIGBROWSER",
+    "team": "Team",
+    "members": {
+      "mazen": {
+        "name": "MAZEN",
+        "role": "Co-Founder & CEO",
+        "alt": "Mazen image"
+      },
+      "ugne": { "name": "UGNE", "role": "Head of Design", "alt": "Ugne image" },
+      "yanis": {
+        "name": "YANIS",
+        "role": "Co-Founder & COO",
+        "alt": "Yanis image"
+      },
+      "milica": {
+        "name": "MILICA",
+        "role": "Delivery Manager",
+        "alt": "Milica image"
+      },
+      "chalom": { "name": "CHALOM", "role": "CTO", "alt": "Chalom image" },
+      "joelle": {
+        "name": "JOELLE",
+        "role": "Head of Sales",
+        "alt": "Joelle image"
+      },
+      "guste": {
+        "name": "GUSTE",
+        "role": "Head of Marketing",
+        "alt": "Guste image"
+      }
+    }
+  },
+  "aboutUs": {
+    "about": "About",
+    "bigbrowser": "BIGBROWSER",
+    "upperCloudsAlt": "Absolute Upper Clouds Background",
+    "lowerCloudsAlt": "Absolute Lower Clouds Background",
+    "imageAlt": "About Us Image",
+    "subheadingTitle": "premium web studio built for modern founders",
+    "subheadingDesc": "BigBrowser built for modern founders who want quality without the traditional agency overhead.",
+    "card1Title": "crafted by real designers and developers",
+    "card1Desc": "Every website focused on clarity, performance, and results. No templates. No shortcuts. No generic AI builds.",
+    "card2Title": "We design and develop high-converting websites",
+    "card2Desc": "Through a simple subscription model, no large upfront costs, no bloated processes, no hidden fees.",
+    "card3Title": "monthly investment starting at {price}/month.",
+    "card3Desc": "Just sharp design, smooth user experience, and a predictable"
+  },
+  "footer": {
+    "frequently": "FREQUENTLY",
+    "askedQuestions": "ASKED QUESTIONS",
+    "bookACall": "Book a call",
+    "mobileHeading": "A Clear Step by Step",
+    "mobileQuestions": "QUESTIONS",
+    "logoAlt": "Big Browser Logo",
+    "explore": "Explore",
+    "services": "Services",
+    "process": "Process",
+    "portfolio": "Portfolio",
+    "pricing": "Pricing",
+    "legal": "LEGAL",
+    "privacyPolicy": "Privacy Policy",
+    "termsConditions": "Terms & conditions",
+    "refundPolicy": "Refund policy",
+    "address": "ADDRESS",
+    "addressText": "86-90 Paul Street, London,<br></br>EC2A 4NE, England",
+    "copyright": "© {year} Bigbrowser",
+    "cloudsAlt": "Clouds Background",
+    "faq": {
+      "0": {
+        "title": "How does the monthly pricing work?",
+        "description": "Your website is designed, built, launched, hosted, and maintained under a simple monthly plan. Instead of paying a large upfront fee, you spread the cost over 12 months while we handle everything: design, development, updates, and support."
+      },
+      "1": {
+        "title": "What's included in the monthly plan ?",
+        "description": "Every plan includes a custom website build, fast delivery, hosting, maintenance, and ongoing support. Your site is handcrafted by real designers and developers, no templates, no shortcuts, no hidden fees."
+      },
+      "2": {
+        "title": "How long does it take to launch my website?",
+        "description": "Once we have your content, your website typically goes live in around 10 days. The process is fast, structured, and designed to get you online quickly without compromising quality."
+      },
+      "3": {
+        "title": "What do I need to provide before you start?",
+        "description": "Just your logo, brand assets, and any text or images you already have. If something is missing, we can help refine it or create it, the process stays simple either way."
+      },
+      "4": {
+        "title": "Can I update or change the website later?",
+        "description": "Yes. You can request updates monthly (3 on the {singlePrice} plan, 7 on the {multiPrice} plan). You can also edit the site yourself, we'll give you access and guide you through react."
+      },
+      "5": {
+        "title": "What happens after the 12-month plan ?",
+        "description": "You decide what works best: continue with monthly maintenance, stay hosted with us, or transfer your site to your own account. The website is yours, no lock-in."
+      },
+      "6": {
+        "title": "Do I own the website at the end?",
+        "description": "Yes. At the end of the first year, you fully own your website and can keep it with us or move it to your own account whenever you like."
+      }
+    }
+  },
+  "privacy": {
+    "backToHome": "Back to Home Page",
+    "s1Title": "1. Introduction",
+    "s1Text": "Welcome to BIGBROWSER LTD (\"we\", \"our\", \"us\"). We respect your privacy and are committed to protecting your personal data. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or purchase our Website-as-a-Service (WaaS) packages and web design services. BIGBROWSER LTD is a Private Limited Company registered in the United Kingdom (Company No: 17024040), located at 86-90 Paul Street, Hackney, London EC2A 4NE, United Kingdom.",
+    "s2Title": "2. Information We Collect",
+    "s2Intro": "We may collect and process the following types of personal information:",
+    "s2IdentityLabel": "Identity and Contact Data:",
+    "s2IdentityText": "First name, last name, email address, phone number, and billing address.",
+    "s2FinancialLabel": "Financial Data:",
+    "s2FinancialText": "Payment details necessary to process your subscription.",
+    "s2FinancialNote": "Note: All payments are processed securely through our third-party payment processor, Stripe. We do not store or have direct access to your full credit card numbers.",
+    "s2ServiceLabel": "Service Data:",
+    "s2ServiceText": "Information, texts, images, and logins you provide to us to build and maintain your website.",
+    "s3Title": "3. How We Use Your Information",
+    "s3Item1": "Provide, operate, and maintain your website and our WaaS subscriptions.",
+    "s3Item2": "Process your payments and manage your billing cycle via Stripe.",
+    "s3Item3": "Communicate with you regarding your project, customer support, and administrative updates.",
+    "s3Item4": "Comply with our legal and regulatory obligations.",
+    "s4Title": "4. Sharing of Your Information",
+    "s4Intro": "We do not sell, trade, or rent your personal data to third parties. We only share your information with trusted third-party service providers who assist us in operating our business, such as:",
+    "s4PaymentLabel": "Payment Processors:",
+    "s4PaymentText": "Stripe, to securely handle your subscription payments.",
+    "s4HostingLabel": "Hosting and Infrastructure Providers:",
+    "s4HostingText": "To host your website and store data securely.",
+    "s4LegalLabel": "Legal Authorities:",
+    "s4LegalText": "If required by law or to protect our legal rights.",
+    "s5Title": "5. International Data Transfers",
+    "s5Text": "As a UK-based company dealing with international clients (including in the US and EU), your data may be transferred to and processed in countries outside of your residence. We ensure that appropriate safeguards (such as Standard Contractual Clauses) are in place to protect your data according to UK and EU GDPR standards.",
+    "s6Title": "6. Your Privacy Rights (GDPR & CCPA compliance)",
+    "s6Intro": "Depending on your location, you may have the following rights regarding your personal data:",
+    "s6Item1": "The right to access, update, or delete the information we have on you.",
+    "s6Item2": "The right to restrict or object to our processing of your personal data.",
+    "s6Item3": "The right to data portability (receiving a copy of your data in a structured format).",
+    "s6Outro": "To exercise any of these rights, please contact us using the details provided below.",
+    "s7Title": "7. Cookies",
+    "s7Text": "We use cookies and similar tracking technologies to track activity on our website and hold certain information to improve your user experience. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent.",
+    "s8Title": "8. Contact Us",
+    "companyLabel": "Company:",
+    "companyName": "BIGBROWSER LTD",
+    "addressLabel": "Address:",
+    "addressText": "86-90 Paul Street, Hackney, London EC2A 4NE, United Kingdom",
+    "emailLabel": "Email:",
+    "email": "hello@bigbrowser.io"
+  },
+  "refund": {
+    "backToHome": "Back to Home Page",
+    "title": "Refund Policy",
+    "intro1": "This Refund Policy governs all services provided by BigBrowser (\"Company,\" \"we,\" \"us,\" or \"our\") related to website design, development, hosting, and digital services performed for clients and their respective websites.",
+    "intro2": "Due to the customized, labor-intensive, and digital nature of our services, all payments made to BigBrowser are final and non-refundable, except where required by applicable law.",
+    "intro3": "By purchasing our services, signing an agreement, or submitting payment, you agree to this Refund Policy.",
+    "s1Title": "1. Nature of Services",
+    "s1Text1": "BigBrowser provides custom website design, development, strategy, and hosting services for client-owned websites.",
+    "s1Text2": "All services involve substantial upfront time, technical setup, creative effort, planning, and allocation of resources. Because these services are custom-built for each client, they cannot be resold or reused once work begins.",
+    "s1Text3": "Accordingly, all payments are non-refundable.",
+    "s2Title": "2. No Refund Policy",
+    "s2Intro": "The following payments are strictly non-refundable:",
+    "s2Items": [
+      "Deposits",
+      "Monthly subscription payments",
+      "Upfront (pay-in-full) project payments",
+      "Hosting and maintenance fees",
+      "Setup fees",
+      "Consultation or strategy fees"
+    ],
+    "s2NoRefundIntro": "No refunds will be issued for:",
+    "s2NoRefundItems": [
+      "Change of mind",
+      "Business closure",
+      "Financial hardship",
+      "Delays caused by the client",
+      "Subjective dissatisfaction",
+      "Failure to use the completed website",
+      "Lack of expected business results"
+    ],
+    "s2Commenced": "Work is considered \"commenced\" once onboarding, planning, consultation, design, development, research, or technical setup has begun.",
+    "s3Title": "3. Website-as-a-Service (WaaS) – 12-Month Commitment",
+    "s3Intro": "If you enter into a 12-month service agreement with BigBrowser:",
+    "s3Items": [
+      "You agree to remain financially responsible for the full 12-month term.",
+      "Early cancellation does not release you from your contractual payment obligation.",
+      "If you terminate before the end of the 12-month term, the remaining balance becomes immediately due as an Early Termination Fee.",
+      "No prior payments will be refunded under any circumstances."
+    ],
+    "s3FailureIntro": "Failure to complete required payments may result in:",
+    "s3FailureItems": [
+      "Immediate suspension of services",
+      "Website takedown",
+      "Termination of hosting",
+      "Collections action",
+      "Legal enforcement"
+    ],
+    "s4Title": "4. Upfront (Pay-in-Full) Projects",
+    "s4Intro": "For clients who choose to pay upfront:",
+    "s4Items": [
+      "Payments are non-refundable once work has begun.",
+      "Cancellation after commencement does not entitle the client to a partial or full refund.",
+      "If the client stops responding, the project may be paused. Payments made are non-refundable.",
+      "BigBrowser reserves the right to invoice for work completed up to the date of abandonment."
+    ],
+    "s5Title": "5. Hosting & Post-Term Services",
+    "s5Items": [
+      "Hosting services are billed monthly and are non-refundable.",
+      "No prorated refunds will be issued for mid-cycle cancellations.",
+      "Websites will remain live until the end of the paid billing period.",
+      "Failure to pay may result in immediate suspension or permanent removal of hosting services.",
+      "BigBrowser is not responsible for data loss after hosting termination unless otherwise agreed in writing."
+    ],
+    "s6Title": "6. Chargebacks & Payment Disputes",
+    "s6Text1": "By purchasing services from BigBrowser, you agree not to initiate chargebacks or payment disputes without first contacting us to attempt resolution.",
+    "s6Text2": "Improper chargebacks for validly delivered services constitute a breach of this agreement.",
+    "s6Intro": "BigBrowser reserves the right to:",
+    "s6Items": [
+      "Submit evidence of service delivery and agreement acceptance to payment processors",
+      "Recover disputed amounts",
+      "Pursue collections or legal remedies",
+      "Seek reimbursement for fees, damages, and legal costs where permitted by law",
+      "Immediately terminate all services"
+    ],
+    "s7Title": "7. No Performance Guarantees",
+    "s7Intro": "BigBrowser does not guarantee:",
+    "s7Items": [
+      "Specific revenue increases",
+      "Lead generation results",
+      "Search engine rankings",
+      "Conversion rates",
+      "Business success"
+    ],
+    "s7Text1": "Unless explicitly stated in a signed agreement, all services are provided on a best-effort basis.",
+    "s7Text2": "Dissatisfaction with aesthetic preferences, business outcomes, or subjective expectations does not constitute grounds for a refund.",
+    "s8Title": "8. EU/UK Consumers – Waiver of Right of Withdrawal",
+    "s8Intro": "If you are located in the European Union or United Kingdom:",
+    "s8Items": [
+      "You expressly consent to immediate commencement of digital services upon purchase.",
+      "You acknowledge that you waive your 14-day statutory right of withdrawal once performance has begun.",
+      "In accordance with Article 16(m) of Directive 2011/83/EU (or applicable UK equivalent), no refunds will be issued after services have commenced."
+    ],
+    "s9Title": "9. Limitation of Liability",
+    "s9Text1": "To the maximum extent permitted by law, BigBrowser's total liability for any claim arising out of or relating to our services shall not exceed the total amount paid by the client in the three (3) months preceding the claim.",
+    "s9Text2": "Under no circumstances shall BigBrowser be liable for indirect, incidental, consequential, special, or punitive damages, including lost profits or business interruption.",
+    "s10Title": "10. Governing Law",
+    "s10Text1": "This Refund Policy shall be governed by and interpreted under the laws of England and Wales, without regard to conflict of law principles.",
+    "s10Text2": "Any disputes shall be resolved exclusively in the courts located in England and Wales.",
+    "s11Title": "11. Acceptance of Policy",
+    "s11Intro": "By submitting payment, signing an agreement, or continuing to use our services, you acknowledge that:",
+    "s11Items": [
+      "You have read and understood this Refund Policy.",
+      "You agree to be legally bound by it.",
+      "You understand that all payments are final and non-refundable."
+    ],
+    "contactTitle": "Contact Information",
+    "companyLabel": "Company:",
+    "companyName": "BigBrowser",
+    "emailLabel": "Email:",
+    "email": "hello@bigbrowser.io"
+  },
+  "terms": {
+    "backToHome": "Back to Home Page",
+    "s1Title": "1. Introduction and Parties",
+    "s1Text": "These Terms of Service (\"Terms\") govern the relationship between BIGBROWSER LTD, a Private Limited Company registered in the United Kingdom under company number 17024040, with its registered office at 86-90 Paul Street, Hackney, London EC2A 4NE, United Kingdom (\"we\", \"us\", \"the Agency\"), and the Client (\"you\", \"the Client\"). By purchasing our Website-as-a-Service (WaaS) subscription or our upfront web design packages, you explicitly agree to these Terms.",
+    "s2Title": "2. Service Scope, Maintenance, and 12-Month Minimum Commitment",
+    "s2Text": "Our WaaS subscription model allows clients to receive a fully designed and developed website, along with premium hosting and comprehensive maintenance, with the initial costs spread over a year. Your monthly fee during this first year fully covers these ongoing maintenance services. Because of this upfront investment in design and development on our part, all new WaaS subscriptions require a strict, non-cancellable minimum commitment of twelve (12) months (the \"Initial Term\").",
+    "s3Title": "3. Early Termination Policy (Acceleration Clause)",
+    "s3Text": "The monthly fee provided under the WaaS model is a heavily discounted rate contingent upon the full 12-month commitment. If you choose to cancel the service, revoke payment authorization, or default on payments before the expiration of the Initial Term, the entire remaining balance of the 12-month contract will become immediately due and payable as an Early Termination Fee.",
+    "s4Title": "4. Post-Term Subscription ($20 Hosting Only)",
+    "s4Text": "Upon the successful completion and full payment of the 12-month Initial Term, your monthly subscription will automatically decrease to $20 per month. Please note that this reduced fee covers ongoing website hosting only. Comprehensive maintenance is no longer included after the first year and requires a separate maintenance plan. This post-term hosting subscription operates on a month-to-month basis and can be canceled at any time without penalty.",
+    "s5Title": "5. Alternative: Upfront Payment (Pay-in-Full)",
+    "s5NoMinLabel": "No Minimum Commitment:",
+    "s5NoMinText": "The 12-month minimum commitment and Early Termination Fees do not apply.",
+    "s5MaintenanceLabel": "Included Maintenance:",
+    "s5MaintenanceText": "The upfront payment includes premium hosting and comprehensive maintenance for the first twelve (12) months following the website launch.",
+    "s5PostYearLabel": "Post-Year 1 Hosting:",
+    "s5PostYearText": "After the first 12 months, a separate hosting subscription of $20 per month will automatically commence (covering hosting only, as detailed in Section 4).",
+    "s6Title": "6. Intellectual Property and Ownership",
+    "s6DuringLabel": "During the Initial Term (WaaS):",
+    "s6DuringText": "The Agency retains full ownership of the website's design, code, structure, and architecture. You retain full ownership of any pre-existing materials you provide (e.g., logos, text, images). If the agreement is terminated early, the website will not be transferred to you and will be taken offline.",
+    "s6AfterLabel": "After the Initial Term / Upfront Payment:",
+    "s6AfterText": "Once the 12-month Initial Term is fully paid, or upon full payment of an upfront package, complete ownership of the final website (excluding any proprietary Agency tools) transfers to you.",
+    "s6HostingLabel": "Hosting Cancellation:",
+    "s6HostingText": "If you cancel your $20/month hosting subscription after the first year, it is your responsibility to migrate the website. The Agency will provide a standard backup file but will not perform the migration to your new host.",
+    "s7Title": "7. Consumer Rights & Right of Withdrawal Waiver (For B2C Clients)",
+    "s7Text": "If you are purchasing our services as a consumer (B2C), you acknowledge that our digital content and web design services commence immediately upon signup. By accepting these Terms at checkout, you expressly consent to the immediate performance of the contract and irrevocably waive any statutory right of withdrawal or 14-day cooling-off period (including under EU/UK consumer protection laws) so that work on your website can begin without delay.",
+    "s8Title": "8. Governing Law and Jurisdiction",
+    "s8Text": "These Terms and any dispute or claim arising out of or in connection with them shall be governed by and construed in accordance with the laws of England and Wales. The courts of England and Wales shall have exclusive jurisdiction."
+  },
+  "splash": {
+    "logoAlt": "BigBrowser"
+  },
+  "floatingWhatsApp": {
+    "label": "Contact us on WhatsApp",
+    "text": "Contact us"
+  },
+  "thankYou": {
+    "allSet": "You're All Set!",
+    "thanksHeading": "Thanks for booking your call with",
+    "bigbrowser": "BigBrowser",
+    "excited": "We're excited to connect with you.",
+    "reachUs": "Need to reach us before the call?",
+    "contactText": "Feel free to contact us anytime, we're here to help.",
+    "contactUs": "Contact us"
+  }
+}

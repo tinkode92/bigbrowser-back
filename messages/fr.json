@@ -1,0 +1,499 @@
+{
+  "metadata": {
+    "title": "Sites Web Performants Conçus Pour Convertir.",
+    "description": "Sites web premium conçus par des experts, livrés en ~10 jours. Aucun template, aucun raccourci IA. Design sur mesure, haute performance, support continu. À partir de 89 $/mois.",
+    "ogAlt": "Sites Web Performants Conçus Pour Convertir."
+  },
+  "navbar": {
+    "services": "Services",
+    "process": "Processus",
+    "portfolio": "Portfolio",
+    "pricing": "Tarifs",
+    "viewPricing": "Voir les tarifs",
+    "logoAlt": "Logo Big Browser",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu"
+  },
+  "hero": {
+    "satisfactionAlt": "Satisfaction client",
+    "highConverting": "Des Sites Web",
+    "websites": "PERFORMANTS",
+    "designedToPerform": "Concus Pour CONVERTIR.",
+    "desc1": "Un site web premium avec un simple engagement annuel.",
+    "desc2": "Aucun template. Aucun raccourci IA. Juste un travail d'expert.",
+    "desc3": "Livré rapidement. Conçu pour performer.",
+    "startNow": "Commencer",
+    "bookACall": "Réserver un appel",
+    "excellent": "Excellent",
+    "starsAlt": "5 étoiles",
+    "trustpilot": "Trustpilot",
+    "cloudsAlt": "Arrière-plan nuages"
+  },
+  "swiperBox": {
+    "cesAlt": "Logo CES",
+    "combinatorAlt": "Logo Combinator",
+    "forbesAlt": "Logo Forbes",
+    "kickstarterAlt": "Logo Kickstarter",
+    "productHuntAlt": "Logo Product Hunt",
+    "techStarsAlt": "Logo TechStars",
+    "nytAlt": "Logo The New York Times",
+    "webSummitAlt": "Logo Web Summit"
+  },
+  "whyBigBrowser": {
+    "why": "POURQUOI",
+    "bigbrowser": "BIGBROWSER",
+    "typewriter": "Un site web premium sans frais initiaux.",
+    "card1Title": "Des Experts Web.",
+    "card1TitleHighlight": "Des Resultats Concrets.",
+    "card1Desc": "Collaborez avec une équipe dédiée qui conçoit des landing pages performantes, transformant votre trafic en croissance réelle.",
+    "card2Title": "Ultra",
+    "card2TitleHighlight": "Rapide.",
+    "card2Desc": "Ne perdez plus des mois sur un site basique. Partagez votre contenu et votre site sur mesure est en ligne en environ 10 jours.",
+    "card3Title1": "Des delais",
+    "card3Title2": "clairs et precis.",
+    "card3Desc": "De la stratégie au déploiement, votre site est livré selon un processus structuré avec des étapes claires et des délais fiables.",
+    "card4Title1": "Qualite",
+    "card4TitleHighlight1": "Superieure.",
+    "card4Title2": "Couts",
+    "card4TitleHighlight2": "Maitrises.",
+    "card4Desc": "Une exécution premium sans les frais généraux d'une agence traditionnelle, offrant de meilleures performances avec un modèle d'investissement plus efficace.",
+    "box1Alt": "Image Box 1 Pourquoi Big Browser",
+    "box2Alt": "Image Box 2 Pourquoi Big Browser",
+    "box3Alt": "Image Box 3 Pourquoi Big Browser",
+    "whoIsItFor": "À qui s'adresse-t-on ?",
+    "foodHospitality": "Restauration & Hôtellerie",
+    "realEstate": "Immobilier",
+    "healthWellness": "Santé & Bien-être",
+    "coachingConsulting": "Coaching & Conseil",
+    "techStartups": "Tech & Startups",
+    "tradesConstruction": "BTP & Construction"
+  },
+  "steps": {
+    "heading": "Un processus clair",
+    "process": "ETAPE PAR ETAPE",
+    "typewriter": "Un processus clair, etape par etape. Sans surprise.",
+    "mobileHeading": "De l'idee au lancement",
+    "step": "ÉTAPE",
+    "step01": "01",
+    "step01Title": "Stratégie & Fondation de Marque",
+    "step01Desc1": "Nous débutons par un appel de lancement ciblé pour comprendre votre entreprise, votre audience et vos objectifs.",
+    "step01Desc2": "Nous définissons votre direction artistique, votre identité de marque, vos références et vos exigences techniques.",
+    "step01Desc3": "Vous terminez cette phase avec clarté, alignement et une feuille de route structurée.",
+    "step02": "02",
+    "step02Title": "Direction Créative & Proposition de Design",
+    "step02Desc1": "Nous transformons la stratégie en un concept visuel percutant.",
+    "step02Desc2": "Vous recevez une première proposition de design incluant la structure de mise en page, la direction visuelle et le parcours utilisateur.",
+    "step02Desc3": "Nous affinons ensemble jusqu'à ce que la direction soit validée et prête pour la production.",
+    "step03": "03",
+    "step03Title": "Développement & Lancement",
+    "step03Desc1": "Une fois approuvé, nous développons votre site en gardant à l'esprit la performance, la réactivité et la scalabilité.",
+    "step03Desc2": "Chaque détail est testé avant le déploiement.",
+    "step03Desc3": "Votre site est lancé propre, optimisé et prêt à convertir.",
+    "step04": "04",
+    "step04Title": "Support Continu & Évolution",
+    "step04Desc1": "Le lancement n'est que le début.",
+    "step04Desc2": "Pendant votre abonnement, nous améliorons continuellement votre site, gérons les mises à jour, implémentons les modifications de design et créons même des visuels pour vos réseaux sociaux si besoin. Votre site évolue avec votre activité."
+  },
+  "video": {
+    "muteVideo": "Couper le son",
+    "unmuteVideo": "Activer le son"
+  },
+  "browseLatest": {
+    "browseLatest": "Decouvrez Nos",
+    "works": "REALISATIONS",
+    "whoIsItFor": "À qui s'adresse-t-on ?",
+    "foodHospitality": "Restauration & Hôtellerie",
+    "realEstate": "Immobilier",
+    "healthWellness": "Santé & Bien-être",
+    "coachingConsulting": "Coaching & Conseil",
+    "techStartups": "Tech & Startups",
+    "tradesConstruction": "BTP & Construction",
+    "startNow": "Commencer",
+    "projectAlt": "Projet {index}"
+  },
+  "pricing": {
+    "noHiddenFees": "AUCUN FRAIS CACHE",
+    "pricingAnd": "Tarifs &",
+    "offer": "Offre",
+    "premiumWebsite": "Un site web",
+    "websiteForJust": "premium pour seulement",
+    "perMonth": "/mois",
+    "commitment": "(engagement 12 mois)",
+    "description": "Tout ce dont vous avez besoin pour lancer et développer votre activité. Design expert, performance optimale, support dédié. Livré rapidement.",
+    "bookACall": "Réserver un appel",
+    "startNow": "Commencer",
+    "customBuilt": "100 % sur mesure.",
+    "noShortcuts": "Aucun raccourci.",
+    "craftedWithIntention": "Conçu avec intention, pas simplement assemblé.",
+    "websitePackages": "Formules de sites web",
+    "singlePage": "Site One-Page",
+    "multiPage": "Site Multi-Pages",
+    "enhancementsAddons": "Options & Add-Ons",
+    "seoLabel": "Suite Performance SEO",
+    "seoTooltip": "Comprend tout l'accélérateur de visibilité Google, ainsi que la création continue de contenu SEO et une page glossaire dédiée pour vous aider à vous positionner sur plus de mots-clés et renforcer votre visibilité dans le temps.",
+    "brandLabel": "Kit Identité de Marque",
+    "brandTooltip": "Idéal si vous démarrez sans identité visuelle : nous développons un guide de marque cohérent couvrant votre logo, système de couleurs, typographie et direction visuelle globale pour que votre site et vos futurs supports restent alignés et cohérents.",
+    "contentLabel": "Rédaction de Contenu Web",
+    "contentTooltip": "Nous rédigeons tout le contenu de vos pages — hero, sections, CTA, FAQ et plus encore — et maintenons votre contenu récurrent, comme les articles de blog et ressources, cohérent et fidèle à votre marque.",
+    "crmLabel": "Intégration CRM & Automatisation",
+    "crmTooltip": "Nous intégrons des automatisations et un système léger de réservation/CRM qui gère les demandes, rendez-vous et suivis automatiquement, pour un flux de travail plus fluide et plus efficace.",
+    "paymentPlanAlt": "Moyen de paiement {index}"
+  },
+  "testimonials": {
+    "cloudsAlt": "Arrière-plan nuages",
+    "woaa": "WOAA !!",
+    "theyLoveTheir": "Ils adorent leur",
+    "theyLoveTheirMobile": "Ils adorent leur",
+    "bigbrowser": "BigBrowser",
+    "website": "site web",
+    "niceJob": "BRAVO !",
+    "feedbacks": {
+      "0": {
+        "name": "Ben Sebagh",
+        "role": "CEO @BIOx",
+        "message": "C'est un véritable plaisir de travailler avec l'équipe BigBrowser. Nous avons déjà collaboré sur plus de 15 projets, et à chaque fois, c'est un réel plaisir. Ils sont hyper-réactifs, agiles, très organisés et méthodiques.",
+        "metric": "+34 % trafic organique"
+      },
+      "1": {
+        "name": "Aimen Bedawi",
+        "role": "CEO @Tatamihq",
+        "message": "Professionnels, réactifs, et tout a été livré dans les temps. Je les recommande vivement. Je leur souhaite beaucoup de succès !",
+        "metric": "+22 % demandes de contact"
+      },
+      "2": {
+        "name": "Allan Benguigui",
+        "role": "CEO @Sobry",
+        "message": "Merci à toute l'équipe pour leur professionnalisme. J'ai adoré travailler avec eux et je n'hésiterai pas à renouveler l'expérience !",
+        "metric": "+29 % inscriptions en ligne"
+      },
+      "3": {
+        "name": "William Fernandes",
+        "role": "Co-fondateur @Wizus",
+        "message": "La collaboration s'est extrêmement bien passée du début à la fin. Bigbrowser a été formidable, très réactif et toujours disponible pour s'adapter aux changements en cours de route. Ils nous ont activement accompagnés tout au long du processus de création du site, ont fourni des retours clairs et partagé de solides conseils quand c'était nécessaire. La communication était fluide, les décisions prises rapidement, et la relation de travail globale était efficace et constructive.",
+        "metric": "+28 % leads entrants"
+      },
+      "4": {
+        "name": "Rajdeep Malhi",
+        "role": "CEO @Kingsguard",
+        "message": "L'équipe Bigbrowser est très réactive et a parfaitement compris nos besoins et notre projet. Ils se sont adaptés à nos exigences. Les demandes de modification ont été traitées dans les délais promis. Je recommande vivement Bigbrowser pour vos besoins en sites web.",
+        "metric": "+19 % visiteurs récurrents"
+      },
+      "5": {
+        "name": "Julien Couderc",
+        "role": "Co-fondateur @Snowbeez",
+        "message": "Nous travaillons avec l'agence Bigbrowser depuis un an pour l'application et le site SowBeez, et nous sommes ravis de leur travail. Leur expertise et leur créativité ont permis de concrétiser notre projet avec succès.",
+        "metric": "+47 % utilisateurs actifs"
+      },
+      "6": {
+        "name": "Eddy Jellal",
+        "role": "CEO @PdfWizard",
+        "message": "J'ai eu l'opportunité de collaborer avec BigBrowser pour un projet digital ambitieux, et le résultat a dépassé toutes mes attentes. L'équipe est créative, réactive et hautement professionnelle.",
+        "metric": "+38 % conversions gratuit vers payant"
+      }
+    }
+  },
+  "team": {
+    "passionate": "Passionnes",
+    "bigbrowser": "BIGBROWSER",
+    "team": "Equipe",
+    "members": {
+      "mazen": {
+        "name": "MAZEN",
+        "role": "Co-Founder & CEO",
+        "alt": "Photo de Mazen"
+      },
+      "ugne": {
+        "name": "UGNE",
+        "role": "Head of Design",
+        "alt": "Photo d'Ugne"
+      },
+      "yanis": {
+        "name": "YANIS",
+        "role": "Co-Founder & COO",
+        "alt": "Photo de Yanis"
+      },
+      "milica": {
+        "name": "MILICA",
+        "role": "Delivery Manager",
+        "alt": "Photo de Milica"
+      },
+      "chalom": { "name": "CHALOM", "role": "CTO", "alt": "Photo de Chalom" },
+      "joelle": {
+        "name": "JOELLE",
+        "role": "Head of Sales",
+        "alt": "Photo de Joelle"
+      },
+      "guste": {
+        "name": "GUSTE",
+        "role": "Directrice Marketing",
+        "alt": "Photo de Guste"
+      }
+    }
+  },
+  "aboutUs": {
+    "about": "A propos de",
+    "bigbrowser": "BIGBROWSER",
+    "upperCloudsAlt": "Arrière-plan nuages supérieur",
+    "lowerCloudsAlt": "Arrière-plan nuages inférieur",
+    "imageAlt": "Image À propos de nous",
+    "subheadingTitle": "studio web premium conçu pour les fondateurs modernes",
+    "subheadingDesc": "BigBrowser est pensé pour les fondateurs modernes qui veulent la qualité sans les frais généraux d'une agence traditionnelle.",
+    "card1Title": "conçu par de vrais designers et développeurs",
+    "card1Desc": "Chaque site web est axé sur la clarté, la performance et les résultats. Aucun template. Aucun raccourci. Aucune génération IA générique.",
+    "card2Title": "Nous concevons et développons des sites web performants",
+    "card2Desc": "Via un modèle d'abonnement simple, sans coûts initiaux élevés, sans processus lourds, sans frais cachés.",
+    "card3Title": "investissement mensuel à partir de {price}/mois.",
+    "card3Desc": "Un design soigné, une expérience utilisateur fluide et un budget prévisible"
+  },
+  "footer": {
+    "frequently": "QUESTIONS",
+    "askedQuestions": "FREQUEMMENT POSEES",
+    "bookACall": "Réserver un appel",
+    "mobileHeading": "Questions frequentes",
+    "mobileQuestions": "FAQ",
+    "logoAlt": "Logo Big Browser",
+    "explore": "Explorer",
+    "services": "Services",
+    "process": "Processus",
+    "portfolio": "Portfolio",
+    "pricing": "Tarifs",
+    "legal": "JURIDIQUE",
+    "privacyPolicy": "Politique de confidentialité",
+    "termsConditions": "Conditions générales",
+    "refundPolicy": "Politique de remboursement",
+    "address": "ADRESSE",
+    "addressText": "86-90 Paul Street, London,<br></br>EC2A 4NE, Angleterre",
+    "copyright": "© {year} Bigbrowser",
+    "cloudsAlt": "Arrière-plan nuages",
+    "faq": {
+      "0": {
+        "title": "Comment fonctionne la tarification mensuelle ?",
+        "description": "Votre site web est conçu, développé, lancé, hébergé et maintenu dans le cadre d'un simple forfait mensuel. Au lieu de payer un montant initial élevé, vous répartissez le coût sur 12 mois pendant que nous nous occupons de tout : design, développement, mises à jour et support."
+      },
+      "1": {
+        "title": "Qu'est-ce qui est inclus dans le forfait mensuel ?",
+        "description": "Chaque forfait comprend la création d'un site web sur mesure, une livraison rapide, l'hébergement, la maintenance et un support continu. Votre site est conçu par de vrais designers et développeurs, sans templates, sans raccourcis, sans frais cachés."
+      },
+      "2": {
+        "title": "Combien de temps faut-il pour lancer mon site ?",
+        "description": "Une fois que nous avons votre contenu, votre site est généralement en ligne en environ 10 jours. Le processus est rapide, structuré et conçu pour vous mettre en ligne rapidement sans compromettre la qualité."
+      },
+      "3": {
+        "title": "Que dois-je fournir avant le démarrage ?",
+        "description": "Simplement votre logo, vos éléments de marque, et tout texte ou image dont vous disposez déjà. S'il manque quelque chose, nous pouvons vous aider à l'affiner ou le créer — le processus reste simple dans tous les cas."
+      },
+      "4": {
+        "title": "Puis-je modifier ou mettre à jour le site par la suite ?",
+        "description": "Oui. Vous pouvez demander des mises à jour mensuelles (3 sur le forfait à {singlePrice}, 7 sur le forfait à {multiPrice}). Vous pouvez également modifier le site vous-même — nous vous donnerons accès et vous guiderons."
+      },
+      "5": {
+        "title": "Que se passe-t-il après les 12 mois ?",
+        "description": "À vous de décider : continuer avec la maintenance mensuelle, rester hébergé chez nous, ou transférer votre site vers votre propre compte. Le site vous appartient, sans engagement."
+      },
+      "6": {
+        "title": "Le site m'appartient-il à la fin ?",
+        "description": "Oui. À la fin de la première année, vous êtes pleinement propriétaire de votre site web et pouvez le conserver chez nous ou le transférer vers votre propre compte quand vous le souhaitez."
+      }
+    }
+  },
+  "privacy": {
+    "backToHome": "Retour à l'accueil",
+    "s1Title": "1. Introduction",
+    "s1Text": "Bienvenue chez BIGBROWSER LTD (« nous », « notre », « nos »). Nous respectons votre vie privée et nous engageons à protéger vos données personnelles. Cette Politique de Confidentialité explique comment nous collectons, utilisons, divulguons et protégeons vos informations lorsque vous visitez notre site web ou achetez nos offres Website-as-a-Service (WaaS) et nos services de conception web. BIGBROWSER LTD est une société à responsabilité limitée enregistrée au Royaume-Uni (numéro d'entreprise : 17024040), située au 86-90 Paul Street, Hackney, Londres EC2A 4NE, Royaume-Uni.",
+    "s2Title": "2. Informations que nous collectons",
+    "s2Intro": "Nous pouvons collecter et traiter les types d'informations personnelles suivants :",
+    "s2IdentityLabel": "Données d'identité et de contact :",
+    "s2IdentityText": "Prénom, nom, adresse e-mail, numéro de téléphone et adresse de facturation.",
+    "s2FinancialLabel": "Données financières :",
+    "s2FinancialText": "Détails de paiement nécessaires au traitement de votre abonnement.",
+    "s2FinancialNote": "Remarque : Tous les paiements sont traités de manière sécurisée par notre processeur de paiement tiers, Stripe. Nous ne stockons pas et n'avons pas d'accès direct à vos numéros de carte bancaire complets.",
+    "s2ServiceLabel": "Données de service :",
+    "s2ServiceText": "Informations, textes, images et identifiants que vous nous fournissez pour construire et maintenir votre site web.",
+    "s3Title": "3. Comment nous utilisons vos informations",
+    "s3Item1": "Fournir, exploiter et maintenir votre site web et nos abonnements WaaS.",
+    "s3Item2": "Traiter vos paiements et gérer votre cycle de facturation via Stripe.",
+    "s3Item3": "Communiquer avec vous concernant votre projet, le support client et les mises à jour administratives.",
+    "s3Item4": "Respecter nos obligations légales et réglementaires.",
+    "s4Title": "4. Partage de vos informations",
+    "s4Intro": "Nous ne vendons, n'échangeons ni ne louons vos données personnelles à des tiers. Nous partageons vos informations uniquement avec des prestataires de services tiers de confiance qui nous aident à exploiter notre activité, tels que :",
+    "s4PaymentLabel": "Processeurs de paiement :",
+    "s4PaymentText": "Stripe, pour gérer vos paiements d'abonnement de manière sécurisée.",
+    "s4HostingLabel": "Fournisseurs d'hébergement et d'infrastructure :",
+    "s4HostingText": "Pour héberger votre site web et stocker vos données en toute sécurité.",
+    "s4LegalLabel": "Autorités légales :",
+    "s4LegalText": "Si la loi l'exige ou pour protéger nos droits légaux.",
+    "s5Title": "5. Transferts internationaux de données",
+    "s5Text": "En tant que société basée au Royaume-Uni traitant avec des clients internationaux (y compris aux États-Unis et dans l'UE), vos données peuvent être transférées et traitées dans des pays en dehors de votre lieu de résidence. Nous veillons à ce que des garanties appropriées (telles que les Clauses Contractuelles Types) soient en place pour protéger vos données conformément aux normes RGPD du Royaume-Uni et de l'UE.",
+    "s6Title": "6. Vos droits en matière de confidentialité (conformité RGPD & CCPA)",
+    "s6Intro": "Selon votre localisation, vous pouvez bénéficier des droits suivants concernant vos données personnelles :",
+    "s6Item1": "Le droit d'accéder, de mettre à jour ou de supprimer les informations que nous détenons sur vous.",
+    "s6Item2": "Le droit de restreindre ou de vous opposer au traitement de vos données personnelles.",
+    "s6Item3": "Le droit à la portabilité des données (recevoir une copie de vos données dans un format structuré).",
+    "s6Outro": "Pour exercer l'un de ces droits, veuillez nous contacter aux coordonnées fournies ci-dessous.",
+    "s7Title": "7. Cookies",
+    "s7Text": "Nous utilisons des cookies et des technologies de suivi similaires pour suivre l'activité sur notre site web et conserver certaines informations afin d'améliorer votre expérience utilisateur. Vous pouvez configurer votre navigateur pour refuser tous les cookies ou pour vous avertir lorsqu'un cookie est envoyé.",
+    "s8Title": "8. Nous contacter",
+    "companyLabel": "Société :",
+    "companyName": "BIGBROWSER LTD",
+    "addressLabel": "Adresse :",
+    "addressText": "86-90 Paul Street, Hackney, Londres EC2A 4NE, Royaume-Uni",
+    "emailLabel": "E-mail :",
+    "email": "hello@bigbrowser.io"
+  },
+  "refund": {
+    "backToHome": "Retour à l'accueil",
+    "title": "Politique de remboursement",
+    "intro1": "Cette Politique de Remboursement régit tous les services fournis par BigBrowser (« Société », « nous », « notre ») liés à la conception de sites web, au développement, à l'hébergement et aux services numériques réalisés pour les clients et leurs sites web respectifs.",
+    "intro2": "En raison de la nature personnalisée, à forte intensité de main-d'œuvre et numérique de nos services, tous les paiements effectués à BigBrowser sont définitifs et non remboursables, sauf si la loi applicable l'exige.",
+    "intro3": "En achetant nos services, en signant un contrat ou en soumettant un paiement, vous acceptez cette Politique de Remboursement.",
+    "s1Title": "1. Nature des services",
+    "s1Text1": "BigBrowser fournit des services de conception, développement, stratégie et hébergement de sites web sur mesure pour les sites détenus par les clients.",
+    "s1Text2": "Tous les services impliquent un temps initial substantiel, une configuration technique, un effort créatif, une planification et une allocation de ressources. Ces services étant conçus sur mesure pour chaque client, ils ne peuvent être revendus ni réutilisés une fois les travaux commencés.",
+    "s1Text3": "En conséquence, tous les paiements sont non remboursables.",
+    "s2Title": "2. Politique de non-remboursement",
+    "s2Intro": "Les paiements suivants ne sont strictement pas remboursables :",
+    "s2Items": [
+      "Acomptes",
+      "Mensualités d'abonnement",
+      "Paiements de projets en une seule fois",
+      "Frais d'hébergement et de maintenance",
+      "Frais de mise en place",
+      "Frais de consultation ou de stratégie"
+    ],
+    "s2NoRefundIntro": "Aucun remboursement ne sera accordé pour :",
+    "s2NoRefundItems": [
+      "Changement d'avis",
+      "Cessation d'activité",
+      "Difficultés financières",
+      "Retards causés par le client",
+      "Insatisfaction subjective",
+      "Non-utilisation du site terminé",
+      "Résultats commerciaux non atteints"
+    ],
+    "s2Commenced": "Les travaux sont considérés comme « commencés » dès lors que l'intégration, la planification, la consultation, le design, le développement, la recherche ou la configuration technique a débuté.",
+    "s3Title": "3. Website-as-a-Service (WaaS) – Engagement de 12 mois",
+    "s3Intro": "Si vous concluez un contrat de service de 12 mois avec BigBrowser :",
+    "s3Items": [
+      "Vous acceptez de rester financièrement responsable pour la totalité des 12 mois.",
+      "L'annulation anticipée ne vous libère pas de votre obligation de paiement contractuelle.",
+      "Si vous résiliez avant la fin des 12 mois, le solde restant devient immédiatement exigible en tant que frais de résiliation anticipée.",
+      "Aucun paiement antérieur ne sera remboursé en aucune circonstance."
+    ],
+    "s3FailureIntro": "Le non-paiement peut entraîner :",
+    "s3FailureItems": [
+      "Suspension immédiate des services",
+      "Mise hors ligne du site",
+      "Résiliation de l'hébergement",
+      "Mise en recouvrement",
+      "Poursuites judiciaires"
+    ],
+    "s4Title": "4. Projets à paiement initial (paiement intégral)",
+    "s4Intro": "Pour les clients qui choisissent de payer d'avance :",
+    "s4Items": [
+      "Les paiements ne sont pas remboursables une fois les travaux commencés.",
+      "L'annulation après le commencement ne donne pas droit à un remboursement partiel ou total.",
+      "Si le client ne répond plus, le projet peut être mis en pause. Les paiements effectués ne sont pas remboursables.",
+      "BigBrowser se réserve le droit de facturer les travaux réalisés jusqu'à la date d'abandon."
+    ],
+    "s5Title": "5. Hébergement & Services post-contrat",
+    "s5Items": [
+      "Les services d'hébergement sont facturés mensuellement et ne sont pas remboursables.",
+      "Aucun remboursement au prorata ne sera accordé pour les annulations en cours de cycle.",
+      "Les sites web resteront en ligne jusqu'à la fin de la période de facturation payée.",
+      "Le non-paiement peut entraîner la suspension immédiate ou la suppression définitive des services d'hébergement.",
+      "BigBrowser n'est pas responsable de la perte de données après la résiliation de l'hébergement, sauf accord écrit contraire."
+    ],
+    "s6Title": "6. Rétrofacturations & Litiges de paiement",
+    "s6Text1": "En achetant des services chez BigBrowser, vous vous engagez à ne pas initier de rétrofacturation ou de litige de paiement sans nous avoir d'abord contactés pour tenter une résolution.",
+    "s6Text2": "Les rétrofacturations abusives pour des services valablement livrés constituent une violation de cet accord.",
+    "s6Intro": "BigBrowser se réserve le droit de :",
+    "s6Items": [
+      "Soumettre des preuves de livraison de service et d'acceptation de l'accord aux processeurs de paiement",
+      "Récupérer les montants contestés",
+      "Engager des procédures de recouvrement ou des recours juridiques",
+      "Demander le remboursement des frais, dommages et frais juridiques dans les limites autorisées par la loi",
+      "Résilier immédiatement tous les services"
+    ],
+    "s7Title": "7. Aucune garantie de performance",
+    "s7Intro": "BigBrowser ne garantit pas :",
+    "s7Items": [
+      "Des augmentations de revenus spécifiques",
+      "Des résultats de génération de leads",
+      "Des classements dans les moteurs de recherche",
+      "Des taux de conversion",
+      "Le succès commercial"
+    ],
+    "s7Text1": "Sauf mention explicite dans un accord signé, tous les services sont fournis au mieux de nos capacités.",
+    "s7Text2": "L'insatisfaction liée aux préférences esthétiques, aux résultats commerciaux ou aux attentes subjectives ne constitue pas un motif de remboursement.",
+    "s8Title": "8. Consommateurs UE/Royaume-Uni – Renonciation au droit de rétractation",
+    "s8Intro": "Si vous êtes situé dans l'Union européenne ou au Royaume-Uni :",
+    "s8Items": [
+      "Vous consentez expressément au commencement immédiat des services numériques dès l'achat.",
+      "Vous reconnaissez renoncer à votre droit de rétractation légal de 14 jours une fois l'exécution commencée.",
+      "Conformément à l'article 16(m) de la directive 2011/83/UE (ou l'équivalent applicable au Royaume-Uni), aucun remboursement ne sera accordé après le commencement des services."
+    ],
+    "s9Title": "9. Limitation de responsabilité",
+    "s9Text1": "Dans toute la mesure permise par la loi, la responsabilité totale de BigBrowser pour toute réclamation découlant de ou liée à nos services ne dépassera pas le montant total payé par le client au cours des trois (3) mois précédant la réclamation.",
+    "s9Text2": "En aucun cas BigBrowser ne sera responsable des dommages indirects, accessoires, consécutifs, spéciaux ou punitifs, y compris la perte de profits ou l'interruption d'activité.",
+    "s10Title": "10. Droit applicable",
+    "s10Text1": "Cette Politique de Remboursement est régie et interprétée conformément aux lois d'Angleterre et du Pays de Galles, sans tenir compte des principes de conflit de lois.",
+    "s10Text2": "Tout litige sera résolu exclusivement devant les tribunaux situés en Angleterre et au Pays de Galles.",
+    "s11Title": "11. Acceptation de la politique",
+    "s11Intro": "En soumettant un paiement, en signant un accord ou en continuant à utiliser nos services, vous reconnaissez que :",
+    "s11Items": [
+      "Vous avez lu et compris cette Politique de Remboursement.",
+      "Vous acceptez d'être juridiquement lié par celle-ci.",
+      "Vous comprenez que tous les paiements sont définitifs et non remboursables."
+    ],
+    "contactTitle": "Coordonnées",
+    "companyLabel": "Société :",
+    "companyName": "BigBrowser",
+    "emailLabel": "E-mail :",
+    "email": "hello@bigbrowser.io"
+  },
+  "terms": {
+    "backToHome": "Retour à l'accueil",
+    "s1Title": "1. Introduction et Parties",
+    "s1Text": "Les présentes Conditions Générales de Service (« Conditions ») régissent la relation entre BIGBROWSER LTD, une société à responsabilité limitée enregistrée au Royaume-Uni sous le numéro d'entreprise 17024040, dont le siège social est situé au 86-90 Paul Street, Hackney, Londres EC2A 4NE, Royaume-Uni (« nous », « notre », « l'Agence »), et le Client (« vous », « le Client »). En achetant notre abonnement Website-as-a-Service (WaaS) ou nos offres de conception web à paiement initial, vous acceptez explicitement ces Conditions.",
+    "s2Title": "2. Étendue des services, maintenance et engagement minimum de 12 mois",
+    "s2Text": "Notre modèle d'abonnement WaaS permet aux clients de bénéficier d'un site web entièrement conçu et développé, ainsi que d'un hébergement premium et d'une maintenance complète, les coûts initiaux étant répartis sur un an. Votre mensualité pendant cette première année couvre intégralement ces services de maintenance continus. En raison de cet investissement initial de notre part en conception et développement, tous les nouveaux abonnements WaaS nécessitent un engagement minimum strict et non résiliable de douze (12) mois (la « Durée Initiale »).",
+    "s3Title": "3. Politique de résiliation anticipée (Clause d'accélération)",
+    "s3Text": "Le tarif mensuel proposé dans le cadre du modèle WaaS est un tarif fortement réduit conditionné à l'engagement complet de 12 mois. Si vous choisissez d'annuler le service, de révoquer l'autorisation de paiement ou de faire défaut de paiement avant l'expiration de la Durée Initiale, la totalité du solde restant du contrat de 12 mois deviendra immédiatement exigible en tant que frais de résiliation anticipée.",
+    "s4Title": "4. Abonnement post-contrat (hébergement uniquement à 20 $/mois)",
+    "s4Text": "À l'issue du paiement complet de la Durée Initiale de 12 mois, votre abonnement mensuel diminuera automatiquement à 20 $ par mois. Veuillez noter que ce tarif réduit couvre uniquement l'hébergement continu du site web. La maintenance complète n'est plus incluse après la première année et nécessite un plan de maintenance séparé. Cet abonnement d'hébergement post-contrat fonctionne au mois et peut être résilié à tout moment sans pénalité.",
+    "s5Title": "5. Alternative : Paiement initial (paiement intégral)",
+    "s5NoMinLabel": "Aucun engagement minimum :",
+    "s5NoMinText": "L'engagement minimum de 12 mois et les frais de résiliation anticipée ne s'appliquent pas.",
+    "s5MaintenanceLabel": "Maintenance incluse :",
+    "s5MaintenanceText": "Le paiement initial comprend l'hébergement premium et la maintenance complète pendant les douze (12) premiers mois suivant le lancement du site.",
+    "s5PostYearLabel": "Hébergement post-année 1 :",
+    "s5PostYearText": "Après les 12 premiers mois, un abonnement d'hébergement séparé de 20 $ par mois commencera automatiquement (couvrant uniquement l'hébergement, tel que détaillé à la Section 4).",
+    "s6Title": "6. Propriété intellectuelle et possession",
+    "s6DuringLabel": "Pendant la Durée Initiale (WaaS) :",
+    "s6DuringText": "L'Agence conserve la pleine propriété du design, du code, de la structure et de l'architecture du site web. Vous conservez la pleine propriété de tout matériel préexistant que vous fournissez (ex. : logos, textes, images). Si l'accord est résilié prématurément, le site web ne vous sera pas transféré et sera mis hors ligne.",
+    "s6AfterLabel": "Après la Durée Initiale / Paiement initial :",
+    "s6AfterText": "Une fois la Durée Initiale de 12 mois intégralement payée, ou après le paiement complet d'un forfait initial, la pleine propriété du site web final (à l'exclusion de tout outil propriétaire de l'Agence) vous est transférée.",
+    "s6HostingLabel": "Résiliation de l'hébergement :",
+    "s6HostingText": "Si vous résiliez votre abonnement d'hébergement à 20 $/mois après la première année, il est de votre responsabilité de migrer le site web. L'Agence fournira un fichier de sauvegarde standard mais n'effectuera pas la migration vers votre nouvel hébergeur.",
+    "s7Title": "7. Droits des consommateurs & Renonciation au droit de rétractation (clients B2C)",
+    "s7Text": "Si vous achetez nos services en tant que consommateur (B2C), vous reconnaissez que nos contenus numériques et services de conception web commencent immédiatement après l'inscription. En acceptant ces Conditions lors du paiement, vous consentez expressément à l'exécution immédiate du contrat et renoncez irrévocablement à tout droit de rétractation légal ou à toute période de réflexion de 14 jours (y compris en vertu des lois de protection des consommateurs de l'UE/du Royaume-Uni) afin que le travail sur votre site web puisse commencer sans délai.",
+    "s8Title": "8. Droit applicable et juridiction",
+    "s8Text": "Les présentes Conditions et tout litige ou réclamation en découlant ou s'y rapportant sont régis et interprétés conformément aux lois d'Angleterre et du Pays de Galles. Les tribunaux d'Angleterre et du Pays de Galles ont compétence exclusive."
+  },
+  "splash": {
+    "logoAlt": "BigBrowser"
+  },
+  "floatingWhatsApp": {
+    "label": "Contactez-nous sur WhatsApp",
+    "text": "Contactez-nous"
+  },
+  "thankYou": {
+    "allSet": "Tout est pret !",
+    "thanksHeading": "Merci d'avoir réservé votre appel avec",
+    "bigbrowser": "BigBrowser",
+    "excited": "Nous avons hâte d'échanger avec vous.",
+    "reachUs": "Besoin de nous contacter avant l'appel ?",
+    "contactText": "N'hésitez pas à nous contacter à tout moment, nous sommes là pour vous aider.",
+    "contactUs": "Contactez-nous"
+  }
+}
